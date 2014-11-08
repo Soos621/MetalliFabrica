@@ -1,0 +1,15 @@
+{
+    "id" : "SoosMod",
+    "version" : "0.1.0",
+    "author" : "",
+    "displayName" : "SoosMod",
+    "description" : "",
+    "dependencies" : [
+	{
+		"id" : "Core",
+		"minVersion" : "0.1.0"
+	}
+],
+
+    "isServerSideOnly" : false
+}
